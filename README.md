@@ -1,4 +1,4 @@
-# Simple-Tuttle-Draw-Module-in-Roblox-Studio (PenTool)
+# Simple-Turtle-Draw-Module-in-Roblox-Studio (PenTool)
 A turtle-graphics style drawing system for Roblox.
 
 Draw shapes by moving a "brush" that leaves parts behind.
