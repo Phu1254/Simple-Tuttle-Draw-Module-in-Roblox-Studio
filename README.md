@@ -33,3 +33,5 @@ local board = PenTool.new(
 	true
 )
 ```
+
+Instruction are inside the Notes script
